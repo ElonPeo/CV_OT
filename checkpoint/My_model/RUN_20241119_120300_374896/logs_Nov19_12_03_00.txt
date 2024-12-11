@@ -1,0 +1,6 @@
+[2024-11-19 12:02:57] DEBUG - matplotlib - matplotlib data path: d:\CV-OT\myenv\lib\site-packages\matplotlib\mpl-data
+[2024-11-19 12:02:57] DEBUG - matplotlib - CONFIGDIR=C:\Users\Admin\.matplotlib
+[2024-11-19 12:02:57] DEBUG - matplotlib - interactive is False
+[2024-11-19 12:02:57] DEBUG - matplotlib - platform is win32
+[2024-11-19 12:02:57] DEBUG - matplotlib - CACHEDIR=C:\Users\Admin\.matplotlib
+[2024-11-19 12:02:57] DEBUG - matplotlib.font_manager - Using fontManager instance from C:\Users\Admin\.matplotlib\fontlist-v390.json
